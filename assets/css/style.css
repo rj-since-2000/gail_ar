@@ -28,7 +28,7 @@ img {
   margin-right: auto;
   margin-top: 5%;
   height: auto;
-  max-width: 100px;
+  max-width: 150px;
 }
 
 .profile-name {
@@ -93,8 +93,8 @@ img {
 .bottom-text {
   text-decoration: none;
   text-align: center;
-  margin-top: 30px;
-  font-size: 20px;
+  margin-top: 60px;
+  font-size: 16px;
   color: rgb(255, 255, 255);
   font-family: "Handlee", cursive;
 }

@@ -1,8 +1,7 @@
-const linkComponent = (title, icon_classes, url) => {
+const linkComponent = (title, url) => {
   return `
     <div>
-        <a href="${url}" target="_blank" class="links , hover">
-        <i class="${icon_classes} links-in"></i>
+        <a href="${url}" target="_self" class="links , hover">
         ${title}</a>
     </div>
   `

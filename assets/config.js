@@ -1,47 +1,31 @@
 let config = {
-  "Title": "Your Name - Links",
-  "Name": "Your Name",
-  "Description": "Your Description",
+  "Title": "GAIL (India) Limited",
+  "Name": "GAIL (India) Limited",
+  "Description": "Experience our advancement with AR",
   "links": [
     {
-      "Title": "Website",
-      "URL": "http://www.harindu.dev",
-      "icon_classes": "fas fa-link",
+      "Title": "Natural Gas (Including NG Marketing, NG Pipeline, LNG Insfrastucture, Sourcing)",
+      "URL": "https://mywebar.com/p/gail",
     },
     {
-      "Title": "Github",
-      "URL": "https://github.com/harindulk",
-      "icon_classes": "fab fa-github",
+      "Title": "CGD (City Gas Distribution)",
+      "URL": "https://mywebar.com/p/gail",
     },
     {
-      "Title": "Play Store",
-      "URL": "https://play.google.com/store/apps/dev?id=6729187126243636577",
-      "icon_classes": "fab fa-google-play"
+      "Title": "Future area of diversification (Renewables -Wind & Solar, Chemicals, Speciality Chemicals, Hydrocarbons, CBG, Hydrocarbons)",
+      "URL": "https://mywebar.com/p/gail",
     },
     {
-      "Title": "PC Games",
-      "URL": "https://harindulk.itch.io/",
-      "icon_classes": "fab fa-itch-io"
+      "Title": "Petrochemicals (Including Polymers & Liquid Hydrocarbons)",
+      "URL": "https://mywebar.com/p/gail",
     },
     {
-      "Title": "Blog",
-      "URL": "blog-test",
-      "icon_classes": "fas fa-blog"
+      "Title": "Sustainability",
+      "URL": "https://mywebar.com/p/gail",
     },
     {
-      "Title": "Twitter",
-      "URL": "https://twitter.com/Harindu_Fonseka",
-      "icon_classes": "fab fa-twitter"
-    },
-    {
-      "Title": "LinkedIn",
-      "URL": "https://www.linkedin.com/in/harindulk/",
-      "icon_classes": "fab fa-linkedin"
-    },
-    {
-      "Title": "Youtube",
-      "URL": "https://www.youtube.com/channel/UCRyQGxzCgFb5wmsp1XAlWpQ",
-      "icon_classes": "fab fa-youtube"
+      "Title": "CSR (Corporate Social Responsibility)",
+      "URL": "https://mywebar.com/p/gail",
     },
   ]
 }
