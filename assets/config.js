@@ -14,7 +14,7 @@ let config = {
       "IMG": "assets/img/2.png"
     },
     {
-      "Title": "Future area of diversification (Renewables -Wind & Solar, Chemicals, Speciality Chemicals, Hydrocarbons, CBG, Hydrocarbons)",
+      "Title": "Future areas of diversification (Renewables -Wind & Solar, Chemicals, Speciality Chemicals, Hydrocarbons, CBG, Hydrocarbons)",
       "URL": "https://mywebar.com/p/gail3",
       "IMG": "assets/img/3.png"
     },
