@@ -18,7 +18,7 @@ switch(url) {
         video_container.innerHTML = videoComponent("https://www.youtube.com/embed/k5DInlUaZ90?autoplay=1&mute=1")
         break;
     case "5":
-        video_container.innerHTML = videoComponent("https://www.youtube.com/embed/OxWqSe4MPXA?autoplay=1&mute=1")
+        video_container.innerHTML = videoComponent("https://www.youtube.com/embed/BPtvW9_tzL0?autoplay=1&mute=1")
         break;
     case "6":
         video_container.innerHTML = videoComponent("https://www.youtube.com/embed/qok1Vbegehw?autoplay=1&mute=1")
