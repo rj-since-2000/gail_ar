@@ -154,5 +154,31 @@ iframe{
   top: 0;
   left: 0;
   width: 100%;
-  height: 100%;
+  height: 90%;
+}
+
+.back {
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
+
+}
+
+.home {
+  position: absolute;
+  right: 120px;
+  bottom: 10px;
+}
+
+.button {
+  background-color: #fdcb28;
+  border: none;
+  color: black;
+  padding: 10px 21px;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 8px;
 }
