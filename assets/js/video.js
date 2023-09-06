@@ -6,7 +6,7 @@ video_container = document.getElementById("video-container")
 
 switch(url) {
     case "1":
-        video_container.innerHTML = videoComponent("https://www.youtube.com/embed/OxWqSe4MPXA?autoplay=1&mute=1&playlist=OxWqSe4MPXA&loop=1")
+        video_container.innerHTML = videoComponent("https://www.youtube.com/embed/VeRtWfZ-5jw?autoplay=1&mute=1&playlist=VeRtWfZ-5jw&loop=1")
         break;
     case "2":
         video_container.innerHTML = videoComponent("https://www.youtube.com/embed/T8COD3adhys?autoplay=1&mute=1&playlist=T8COD3adhys&loop=1")
